@@ -1,0 +1,6 @@
+{
+  "name": "Landscape Automation Studio",
+  "description": "AI-powered workspace and AutoCAD agent for landscape architects and designers in Israel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
